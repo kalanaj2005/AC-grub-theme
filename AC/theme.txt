@@ -33,6 +33,7 @@ terminal-border: "0"
   scrollbar_width = 24
   scrollbar_thumb = "sb_thumb_*.png"
   scrollbar_frame = "sb_frame_*.png"
+  menu_pixmap_style = "select_*.png"
 }
 
 + progress_bar {
