@@ -1,6 +1,6 @@
 #Assets
 
-#Modification
+# Modification
 --------------------------------------------
 Modified from <a href="https://github.com/NayamAmarshe/Cyberpunk-GRUB-Theme">Cyberpunk-GRUB-Theme</a> By NayamAmarshe
 
